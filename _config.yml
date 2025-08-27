@@ -1,14 +1,14 @@
 theme: eleven-theme
 
 eleven:
-  name: Umberto Zerbinati
+  name: Algebraic Methods in Kinetic Theory and Calculus of Variations
   date_format: "%b %d, %Y"
-  logo:  "assets/logo.jpeg"
+  logo:  ""
 
 permalink: /
 
-title: "Umberto Zerbinati"
-description: "Umberto Zerbinati, DPhil student Oxford University"
+title: "Algebraic Methods in Kinetic Theory and Calculus of Variations"
+description: ""
 webmaster_verifications:
   #google: "ByYdzwgMKaBTrHM7VNNajWnJg8yfcSU41D7OF6E_p1Q"
 
